@@ -21,7 +21,7 @@ Here are some ideas to get you started:
         <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rusy13&show_icons=true&theme=dark&title_color=1fddea&text_color=ffffff&locale=en&layout=compact" alt="rusy13" /></p>
     </div>
     <div>
-        <h3 style="text-align: center;">Примечание: Топ языков - это всего лишь показатель языков, из которых состоит мой общедоступный код, и не отражает опыт или уровень квалификации.</h3>
+        <h3 style="text-align: center;">Примечание: Топ языков - это всего лишь показатель языков, из которых состоит мой общедоступный код. Он не отражает опыт или уровень квалификации.</h3>
     </div>
 </div>
 

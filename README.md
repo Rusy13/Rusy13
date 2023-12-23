@@ -1,4 +1,4 @@
-### Hi! 👋
+### 👋😗👻😈👽👲👮😃😎⛄🐍🎃⚽🍹🙊👦💥😜👏💂‍♂️😆🐙🌕🎈🎁👋😗😈👽👲👮😝😎⛄🐍🎃👻🙊
 
 <!--
 **Rusy13/Rusy13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,19 @@ Here are some ideas to get you started:
 -->
 
 
+<div style="display: flex; align-items: center; justify-content: center;">
+    <div>
+        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rusy13&show_icons=true&theme=dark&title_color=1fddea&text_color=ffffff&locale=en&layout=compact" alt="rusy13" /></p>
+    </div>
+    <div>
+        <h3 style="text-align: center;">Примечание: Топ языков - это всего лишь показатель языков, из которых состоит мой общедоступный код, и не отражает опыт или уровень квалификации.</h3>
+    </div>
+</div>
+
+
+
+
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -30,3 +43,10 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+
+
+
+
+
+
